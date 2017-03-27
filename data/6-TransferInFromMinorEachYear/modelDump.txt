@@ -1,0 +1,81 @@
+************************************
+* Students in program at milestone *
+************************************
+  ADMITTED    0: M=    0  F=    0  U=    0 (CS_MAJOR students at ADMITTED)
+     YEAR1    2: M=    2  F=    0  U=    0 (CS_MAJOR students at YEAR1)
+     YEAR2    5: M=    5  F=    0  U=    0 (CS_MAJOR students at YEAR2)
+     YEAR3    9: M=    7  F=    2  U=    0 (CS_MAJOR students at YEAR3)
+     YEAR4   14: M=   10  F=    4  U=    0 (CS_MAJOR students at YEAR4)
+ GRADUATED   14: M=   10  F=    4  U=    0 (CS_MAJOR students at GRADUATED)
+
+*************************************************
+* Students joining program going into milestone *
+*************************************************
+Milestone: YEAR1
+     added   0 : M=    0  F=    0  U=    0 (previous program CS Major)
+     added   0 : M=    0  F=    0  U=    0 (previous program CS Software Systems)
+     added   2 : M=    2  F=    0  U=    0 (previous program CS Minor)
+     added   0 : M=    0  F=    0  U=    0 (previous program CS Joint Major)
+     added   0 : M=    0  F=    0  U=    0 (previous program Unknown)
+     added   0 : M=    0  F=    0  U=    0 (previous program Dropped Out)
+     Total   2
+Milestone: YEAR2
+     added   0 : M=    0  F=    0  U=    0 (previous program CS Major)
+     added   0 : M=    0  F=    0  U=    0 (previous program CS Software Systems)
+     added   3 : M=    3  F=    0  U=    0 (previous program CS Minor)
+     added   0 : M=    0  F=    0  U=    0 (previous program CS Joint Major)
+     added   0 : M=    0  F=    0  U=    0 (previous program Unknown)
+     added   0 : M=    0  F=    0  U=    0 (previous program Dropped Out)
+     Total   3
+Milestone: YEAR3
+     added   0 : M=    0  F=    0  U=    0 (previous program CS Major)
+     added   0 : M=    0  F=    0  U=    0 (previous program CS Software Systems)
+     added   4 : M=    2  F=    2  U=    0 (previous program CS Minor)
+     added   0 : M=    0  F=    0  U=    0 (previous program CS Joint Major)
+     added   0 : M=    0  F=    0  U=    0 (previous program Unknown)
+     added   0 : M=    0  F=    0  U=    0 (previous program Dropped Out)
+     Total   4
+Milestone: YEAR4
+     added   0 : M=    0  F=    0  U=    0 (previous program CS Major)
+     added   0 : M=    0  F=    0  U=    0 (previous program CS Software Systems)
+     added   5 : M=    3  F=    2  U=    0 (previous program CS Minor)
+     added   0 : M=    0  F=    0  U=    0 (previous program CS Joint Major)
+     added   0 : M=    0  F=    0  U=    0 (previous program Unknown)
+     added   0 : M=    0  F=    0  U=    0 (previous program Dropped Out)
+     Total   5
+
+******************************************************
+* LEAVING: Students leaving program before milestone *
+******************************************************
+Milestone: YEAR1
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Major)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Software Systems)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Minor)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Joint Major)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving Unknown)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving Dropped Out)
+     Total   0
+Milestone: YEAR2
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Major)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Software Systems)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Minor)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Joint Major)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving Unknown)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving Dropped Out)
+     Total   0
+Milestone: YEAR3
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Major)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Software Systems)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Minor)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Joint Major)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving Unknown)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving Dropped Out)
+     Total   0
+Milestone: YEAR4
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Major)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Software Systems)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Minor)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving CS Joint Major)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving Unknown)
+     removed   0 : M=    0  F=    0  U=    0 (reason for leaving Dropped Out)
+     Total   0
